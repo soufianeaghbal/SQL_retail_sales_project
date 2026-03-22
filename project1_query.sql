@@ -1,5 +1,5 @@
 -- My first project "Retail Sales Analysis"
-CREATE DATABASE sql_project_p2;
+CREATE DATABASE project_1;
 
 
 -- Create TABLE
