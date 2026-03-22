@@ -181,7 +181,7 @@ count(*) as total_orders
 from retail_sales
 group by shift;
 ```
-##Findings
+## Findings
 
 - **Sales Distribution**: Sales are distributed across multiple product categories, showing differences in performance between categories.
 -**High-Value Transactions**: The dataset includes transactions with total sales greater than 1000, indicating the presence of higher-value purchases.
@@ -189,13 +189,13 @@ group by shift;
 -**Customer Behavior**: The analysis identifies top customers based on total spending and shows how customers are distributed across categories.
 -**Monthly Trends**: Average sales vary by month, helping highlight the best-performing periods within each year.
 
-##Reports
+## Reports
 
 -**Sales Overview**: Summary of total orders and overall sales performance across categories.
 -**Category Performance**: Breakdown of sales and customer activity by product category.
 -**Time Analysis**: Distribution of orders based on time of day (shift analysis).
 -**Customer Analysis**: Identification of top customers and unique customer counts per category.
 
-##Conclusion
+## Conclusion
 
 This project represents my first SQL-based data analysis project, where I worked with a retail sales dataset to practice data cleaning, exploration, and answering business questions. It demonstrates my ability to use SQL to extract insights from data and understand key patterns such as sales trends, customer behavior, and category performance.
